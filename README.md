@@ -1,4 +1,4 @@
-![codewars badge](https://www.codewars.com/users/nisc456/badges/micro)
+[![codewars badge](https://www.codewars.com/users/nisc456/badges/micro)](https://www.codewars.com/users/nisc456)
 
 👋 Hi, I’m @nisc586
 
